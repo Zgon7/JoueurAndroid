@@ -1,0 +1,20 @@
+{
+  "message": "Fetched clients successfully.",
+  "clients": [
+    {
+      "_id": "5d78f5876154ef2204d4b5ad",
+      "firstName": "SSS",
+      "familyName": "cx",
+      "email": "cx",
+      "password": "cx",
+      "birthday": "1998-05-04T23:00:00.000Z",
+      "country": "tunisia",
+      "city": "cx",
+      "phone": 123,
+      "createdAt": "2019-09-11T13:24:23.115Z",
+      "updatedAt": "2019-09-11T14:15:38.631Z",
+      "__v": 0
+    }
+  ],
+  "totalItems": 1
+}

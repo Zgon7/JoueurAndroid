@@ -1,0 +1,22 @@
+GET http://localhost:8080/client/clients
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-09-13T113935.200.json
+
+###
+
+GET http://localhost:8080/client/clients
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-09-12T024655.200.json
+
+###
+
+GET http://localhost:8080/client/clients
+Accept: */*
+Cache-Control: no-cache
+
+###
+

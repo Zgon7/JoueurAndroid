@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48ded460-e9c0-460b-bf90-d23d117ed462" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1QeCLzZERZ2uuHoBq5lZooe7zwk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.15.3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Zgon\Desktop\BeNeutron\schema" />
+      <recent name="C:\Users\Zgon\Desktop\BeNeutron\graphql\resolvers" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/client/clients" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48ded460-e9c0-460b-bf90-d23d117ed462" name="Default Changelist" comment="" />
+      <created>1568121622942</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568121622942</updated>
+      <workItem from="1568121626555" duration="698000" />
+      <workItem from="1568129102396" duration="6484000" />
+      <workItem from="1568136676317" duration="13000" />
+      <workItem from="1568201926095" duration="3008000" />
+      <workItem from="1568207336374" duration="2701000" />
+      <workItem from="1568290968394" duration="3622000" />
+      <workItem from="1568370527114" duration="15349000" />
+      <workItem from="1568395608710" duration="808000" />
+      <workItem from="1568474715526" duration="3297000" />
+      <workItem from="1568544697958" duration="13407000" />
+      <workItem from="1568629797484" duration="13592000" />
+      <workItem from="1568716764765" duration="7883000" />
+      <workItem from="1568816677393" duration="3211000" />
+      <workItem from="1568821273906" duration="4344000" />
+      <workItem from="1568980734273" duration="1654000" />
+      <workItem from="1568984142784" duration="3898000" />
+      <workItem from="1569157614113" duration="5218000" />
+      <workItem from="1569164687878" duration="4594000" />
+      <workItem from="1569516119241" duration="2158000" />
+      <workItem from="1569768401773" duration="89000" />
+      <workItem from="1569768541731" duration="3920000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
