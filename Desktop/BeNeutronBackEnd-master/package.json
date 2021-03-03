@@ -20,7 +20,7 @@
     "node-mailjet": "^3.3.1",
     "nodemailer-sendgrid-transport": "^0.2.0",
     "password-validator": "^5.0.2",
-    "pug": "2.0.0-beta11",
+    "pug": "3.0.1",
     "stripe": "^7.9.1",
     "validator": "^11.1.0"
   },
